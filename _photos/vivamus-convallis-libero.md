@@ -1,6 +1,6 @@
 ---
-title: Diam tempus accumsan
-image: assets/images/fulls/01.jpg
-thumbnail: assets/images/thumbs/01.jpg
-caption: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+title: Homeworlds playing area
+image: assets/images/fulls/01.png
+thumbnail: assets/images/thumbs/01.png
+caption: not required but sometimes helpful
 ---
