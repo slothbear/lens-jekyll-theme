@@ -1,0 +1,3 @@
+#!/bin/sh
+JEKYLL_ENV=production bundle exec jekyll build
+rsync --checksum --recursive --verbose --compress --delete-after  _site/ retxab@retxab.pairserver.com:/usr/home/retxab/public_html/coaster.monster
